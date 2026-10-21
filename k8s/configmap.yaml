@@ -11,7 +11,7 @@ data:
       <title>My First GitOps App</title>
     </head>
     <body>
-      <h1>Hello from Kubernetes!</h1>
+      <h1>My First GitOps Deployment!</h1>
       <p>This website is deployed using Argo CD.</p>
     </body>
     </html>
